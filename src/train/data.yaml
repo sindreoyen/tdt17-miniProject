@@ -1,0 +1,6 @@
+train: /cluster/home/sindroye/tdt17-miniProject/data/RevisedPolesY11/train/images
+val: /cluster/home/sindroye/tdt17-miniProject/data/RevisedPolesY11/valid/images
+test: /cluster/home/sindroye/tdt17-miniProject/data/RevisedPolesY11/test/images
+
+nc: 1
+names: ['pole']
