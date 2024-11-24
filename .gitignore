@@ -2,3 +2,4 @@
 yolo11s.pt
 data
 runs
+yolo*.pt
