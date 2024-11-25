@@ -1,8 +1,8 @@
 train: /cluster/home/sindroye/tdt17-miniProject/data/RevisedPolesY11/train/images
 # Setting the path to the validation set as the training set
 # This is the original validation set
-val: /cluster/home/sindroye/tdt17-miniProject/data/PolesYOLO11/valid/images
-test: /cluster/home/sindroye/tdt17-miniProject/data/PolesYOLO11/valid/images
+val: /cluster/home/sindroye/tdt17-miniProject/data/RevisedPolesY11/test/images
+test: /cluster/home/sindroye/tdt17-miniProject/data/RevisedPolesY11/test/images
 
 nc: 1
 names: ['pole']

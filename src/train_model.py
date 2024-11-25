@@ -11,7 +11,7 @@ pretrained = YOLO(model=__pretrained_model)
 result = pretrained.train(
     data="data.yaml", # Path to data.yaml
     pretrained=True, # Use pre-trained model
-    batch=8, # Batch size
+    batch=16, # Batch size
     epochs=100, # Number of epochs
     imgsz=1024, # Image size
     device=[0, 1], # Train on GPU 0 and 1
